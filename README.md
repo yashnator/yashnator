@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yash Solanki, a sophomore @IIT Delhi
+- 👀 I’m interested in ML, WebDevelopment & writing simulations
+- 🌱 I’m currently learning ReactJS and Core ML Algorithms
+- 💞️ I’m looking to collaborate on Full Stack Projects
+- 📫 Mail me @252yash@gmail.com 
