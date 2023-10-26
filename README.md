@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yash Solanki, a sophomore @IIT Delhi
-- 👀 I’m interested in maths, ML & embedded systems
+- 👀 I’m interested in maths & ML
 - 🌱 I’m currently learning Core ML Algorithms
 - 📫 Mail me @252yash@gmail.com 
