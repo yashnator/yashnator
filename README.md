@@ -9,4 +9,5 @@
 - 🧊 **Quantum computing**
 
 ✍️ Sometimes I write here → [yashnator.github.io](https://yashnator.github.io)
+
 📬 Reach out: [252yash@gmail.com](mailto:252yash@gmail.com)
