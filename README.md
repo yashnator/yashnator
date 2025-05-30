@@ -1,12 +1,4 @@
-### Hey, I’m Yash Solanki 👋
-
-🎓 Final-year **Computer Science & Physics** student at **IIT Delhi**  
-
-🚀 Interests:
-- ⚙️ **Systems programming**
-- 🧬 **Open source AI**
-- 📐 **Mathematics** & **scientific computing**
-- 🧊 **Quantum computing**
+Hey, I’m Yash Solanki 👋. I'm a final-year Computer Science & Physics student at **IIT Delhi** with interests in systems, compilers, scientific computing and quantum computing
 
 ✍️ Sometimes I write here → [yashnator.github.io](https://yashnator.github.io)
 
